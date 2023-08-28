@@ -3,7 +3,7 @@
 
 Project with the purpose of validating an HTTP / HTTPS proxy list. 
 
-## FAQ
+# FAQ
 
 ### Where do you get the proxies from?
 
@@ -13,11 +13,11 @@ Proxies are obtained from different sources, almost all from open source GitHub 
 
 The validation process involves establishing a connection to the IP address http://1.1.1.1 (Cloudflare) through the proxy. If the connection is successful, the proxy is included in the list and subsequently committed.
 
-#### How often is there a commit?
+### How often is there a commit?
 
 5 minutes. If there are no commits, it is because no valid proxies were found.
 
-## Badges
+# Badges
 
 [![MIT License](https://img.shields.io/badge/License-MIT-green.svg)](https://choosealicense.com/licenses/mit/)
 
