@@ -1,13 +1,22 @@
 
 # proxy.casals.ar
 
-Este proyecto lo hice a fin de verificar una lista de proxy HTTP / HTTPS. Este proceso de verificación se realiza haciendo una conexión hacia la IP 1.1.1.1 a través del proxy, y, en caso que la conexión sea exitosa se agrega a la lista (y se commitea).
+Project with the purpose of validating an HTTP / HTTPS proxy list. 
 
 ## FAQ
 
-#### Cada cuanto se commitea?
+### Where do you get the proxies from?
 
-10 minutos. En caso que no hayan commits es porque no se encontraron proxys validos.
+Proxies are obtained from different sources, almost all from open source GitHub repositories or other projects that offer their services for free.
+
+### How works?
+
+The validation process involves establishing a connection to the IP address http://1.1.1.1 (Cloudflare) through the proxy. If the connection is successful, the proxy is included in the list and subsequently committed.
+
+#### How often is there a commit?
+
+5 minutes. If there are no commits, it is because no valid proxies were found.
+
 ## Badges
 
 [![MIT License](https://img.shields.io/badge/License-MIT-green.svg)](https://choosealicense.com/licenses/mit/)
