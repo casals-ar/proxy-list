@@ -17,6 +17,10 @@ The validation process involves establishing a connection to the IP address http
 
 5 minutes. If there are no commits, it is because no valid proxies were found.
 
+## Are proxies removed?
+
+Yes, proxies are removed every 24 hours and the verification process starts from scratch.
+
 # Badges
 
 [![MIT License](https://img.shields.io/badge/License-MIT-green.svg)](https://choosealicense.com/licenses/mit/)
