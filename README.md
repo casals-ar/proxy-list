@@ -1,26 +1,31 @@
-## Buy me a coffee! ☕
+## ☕ Buy me a coffee! ☕
 
 > With a small donation you will contribute so that I can continue to maintain public projects! 
 [![Donate](https://img.shields.io/badge/Donate-PayPal-green.svg)](https://paypal.me/santicsls)
 
-# 🚀 proxy.casals.ar
+# 🚀 proxy.casals.ar 🚀
 
 Project with the purpose of validating an HTTP / HTTPS proxy list. 
 
-# FAQ
+# ❓ FAQ  ❓
 
-### Where do you get the proxies from?
+### Q: Where do you get the proxies from?
 
-Proxies are obtained from different sources, almost all from open source GitHub repositories or other projects that offer their services for free.
+A: Proxies are obtained from different sources, almost all from open source GitHub repositories or other projects that offer their services for free.
 
-### How works?
+### Q: How works?
 
-The validation process involves establishing a connection to the IP address http://1.1.1.1 (Cloudflare) through the proxy. If the connection is successful, the proxy is included in the list and subsequently committed.
+A: The validation process involves establishing a connection to the IP address http://1.1.1.1 (Cloudflare) through the proxy. If the connection is successful, the proxy is included in the list and subsequently committed.
 
-### How often is there a commit?
+### Q: How often is there a commit?
 
-5 minutes. If there are no commits, it is because no valid proxies were found.
+A: 5 minutes. If there are no commits, it is because no valid proxies were found.
 
-### Are proxies removed?
+### Q: Are proxies removed?
 
-Yes, proxies are removed every 24 hours and the verification process starts from scratch.
+A: Yes, proxies are removed every 24 hours and the verification process starts from scratch.
+
+## ☕ Buy me a coffee! ☕
+
+> With a small donation you will contribute so that I can continue to maintain public projects! 
+[![Donate](https://img.shields.io/badge/Donate-PayPal-green.svg)](https://paypal.me/santicsls)
