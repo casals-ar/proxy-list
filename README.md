@@ -4,7 +4,7 @@
 
 # 🚀 [proxy.casals.ar](https://proxy.casals.ar) 🚀
 
-Project with the purpose of validating an HTTP / HTTPS proxy list. 
+Project with the purpose of validating an HTTP / HTTPS / SOCKS4 / SOCKS 5 proxy list. 
 
 # ❓ FAQ  ❓
 
