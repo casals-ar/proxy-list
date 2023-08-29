@@ -2,7 +2,7 @@
 
 > With a small donation you will contribute so that I can continue to maintain public projects! 
 
-# 🚀 proxy.casals.ar 🚀
+# 🚀 [proxy.casals.ar](https://proxy.casals.ar) 🚀
 
 Project with the purpose of validating an HTTP / HTTPS proxy list. 
 
