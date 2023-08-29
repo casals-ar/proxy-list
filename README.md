@@ -14,7 +14,7 @@ A: Proxies are obtained from different sources, almost all from open source GitH
 
 ### Q: How works?
 
-A: The validation process involves establishing a connection to the IP address http://1.1.1.1 (Cloudflare) through the proxy. If the connection is successful, the proxy is included in the list and subsequently committed.
+A: The validation process involves establishing a connection to the IP address 1.1.1.1 (Cloudflare) through the proxy. If the connection is successful, the proxy is included in the list and subsequently committed.
 
 ### Q: How often is there a commit?
 
