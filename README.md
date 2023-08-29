@@ -1,7 +1,7 @@
-# Buy me a coffee! ☕
+## Buy me a coffee! ☕
 
-> With a small donation you will contribute so that he can continue to maintain public projects!
-> [![Donate](https://img.shields.io/badge/Donate-PayPal-green.svg)](https://paypal.me/santicsls)
+> With a small donation you will contribute so that I can continue to maintain public projects! 
+[![Donate](https://img.shields.io/badge/Donate-PayPal-green.svg)](https://paypal.me/santicsls)
 
 # 🚀 proxy.casals.ar
 
