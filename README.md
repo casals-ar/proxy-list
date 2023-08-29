@@ -1,3 +1,4 @@
+[![Donate](https://img.shields.io/badge/Donate-PayPal-green.svg)](santiago@casals.ar)
 
 # 🚀 https://casals.ar
 
