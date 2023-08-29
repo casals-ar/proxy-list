@@ -1,6 +1,9 @@
-[![Donate](https://img.shields.io/badge/Donate-PayPal-green.svg)](santiago@casals.ar)
+# Buy me a coffee! ☕
 
-# 🚀 https://casals.ar
+> With a small donation you will contribute so that he can continue to maintain public projects!
+> [![Donate](https://img.shields.io/badge/Donate-PayPal-green.svg)](https://paypal.me/santicsls)
+
+# 🚀 proxy.casals.ar
 
 Project with the purpose of validating an HTTP / HTTPS proxy list. 
 
