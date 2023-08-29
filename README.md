@@ -1,7 +1,6 @@
-## ☕ Buy me a coffee! ☕
+### ☕ Buy me a coffee! ☕  [![Donate](https://img.shields.io/badge/Donate-PayPal-green.svg)](https://paypal.me/santicsls)
 
 > With a small donation you will contribute so that I can continue to maintain public projects! 
-[![Donate](https://img.shields.io/badge/Donate-PayPal-green.svg)](https://paypal.me/santicsls)
 
 # 🚀 proxy.casals.ar 🚀
 
@@ -25,7 +24,6 @@ A: 5 minutes. If there are no commits, it is because no valid proxies were found
 
 A: Yes, proxies are removed every 24 hours and the verification process starts from scratch.
 
-## ☕ Buy me a coffee! ☕
+### ☕ Buy me a coffee! ☕  [![Donate](https://img.shields.io/badge/Donate-PayPal-green.svg)](https://paypal.me/santicsls)
 
 > With a small donation you will contribute so that I can continue to maintain public projects! 
-[![Donate](https://img.shields.io/badge/Donate-PayPal-green.svg)](https://paypal.me/santicsls)
