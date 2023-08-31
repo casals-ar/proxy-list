@@ -30,4 +30,4 @@ A: Yes, proxies are removed every 24 hours and the verification process starts f
 
 ## 📝 Last update
 
-> 2023-08-31 00:35:01
+> 2023-08-31 00:40:01
