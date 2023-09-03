@@ -6,7 +6,7 @@
 
 <h1 align="center"><a href="https://proxy.casals.ar">proxy.casals.ar</a></h1>
 
-### Project with the purpose of validating an HTTP / HTTPS / SOCKS4 / SOCKS 5 proxy list.
+### <p align="center">Project with the purpose of validating an HTTP / HTTPS / SOCKS4 / SOCKS 5 proxy list.</p>
 
 ## ❓ FAQ
 
@@ -33,4 +33,4 @@ If you would like to add a new source, please create a new commit or contact me 
 
 ## 📝 Last update
 
-> 2023-09-03 19:56:58
+> 2023-09-03 19:58:53
