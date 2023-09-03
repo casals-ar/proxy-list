@@ -2,10 +2,8 @@
   <img src="https://avatars.githubusercontent.com/u/143447515?s=400&u=24815cc220ffe4a8a3252817c0885f0df4ac08f0&v=4" width="200" height="200">
 </p>
 
-# <p style="text-align: center;"> [🌐 proxy.casals.ar 🌐](https://proxy.casals.ar)<br>
-### <p style="text-align: center;">  Project with the purpose of validating an HTTP / HTTPS / SOCKS4 / SOCKS 5 proxy list.</p>
-
-<br><br>
+# <p style="text-align: center;"> [🌐 proxy.casals.ar 🌐](https://proxy.casals.ar)<br></p>
+### <p style="text-align: center;">Project with the purpose of validating an HTTP / HTTPS / SOCKS4 / SOCKS 5 proxy list.</p>
 
 ## ❓ FAQ
 
@@ -33,4 +31,4 @@ Do you want add a new source? Create a new commit or contact to my email at [san
 
 ## 📝 Last update
 
-> 2023-09-03 19:45:01
+> 2023-09-03 19:50:01
