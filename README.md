@@ -2,7 +2,7 @@
 
 > With a small donation you will contribute so that I can continue to maintain public projects! 
 
-# 🌐 [proxy.casals.ar](https://proxy.casals.ar)
+# <p style="text-align: center;"> 🌐 [proxy.casals.ar](https://proxy.casals.ar) 🌐</p>
 
 Project with the purpose of validating an HTTP / HTTPS / SOCKS4 / SOCKS 5 proxy list. 
 
@@ -24,4 +24,4 @@ Do you want add a new source? Create a new commit or contact to my email at [san
 
 ## 📝 Last update
 
-> 2023-09-03 19:25:01
+> 2023-09-03 19:30:01
