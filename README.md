@@ -10,7 +10,7 @@ Project with the purpose of validating an HTTP / HTTPS / SOCKS4 / SOCKS 5 proxy 
 
 ### Q: Where do you get the proxies from?
 
-A: Proxies are obtained from different sources, almost all from open source GitHub repositories or other projects that offer their services for free.
+A: Proxies are obtained from different sources, almost all from open source GitHub repositories or other projects that offer their services for free. Some of the sources are:
 1. HTTP:
 	- [TheSpeedX's "PROXY-List" repository](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)
 2. HTTPS: 
@@ -22,18 +22,6 @@ A: Proxies are obtained from different sources, almost all from open source GitH
 
 Do you want add a new source? Create a new commit or contact to my email at [santiago@casals.ar](mailto:santiago@casals.ar).
 
-### Q: How works?
-
-A: The validation process involves establishing a connection to the IP address 1.1.1.1 (Cloudflare) through the proxy. If the connection is successful, the proxy is included in the list and subsequently committed.
-
-### Q: How often is there a commit?
-
-A: 5 minutes. If there are no commits, it is because no valid proxies were found.
-
-### Q: Are proxies removed?
-
-A: Yes, proxies are removed every 24 hours and the verification process starts from scratch.
-
 ## 📝 Last update
 
-> 2023-09-03 19:20:01
+> 2023-09-03 19:25:01
