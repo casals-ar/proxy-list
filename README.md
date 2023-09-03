@@ -1,10 +1,13 @@
 <p align="center">
-  <img src="https://avatars.githubusercontent.com/u/143447515?s=200&v=4" width="200" height="200">
+  <img src="https://avatars.githubusercontent.com/u/143447515?s=400&u=24815cc220ffe4a8a3252817c0885f0df4ac08f0&v=4" width="200" height="200">
 </p>
 
-### <p style="text-align: center;"> 🌐 [proxy.casals.ar](https://proxy.casals.ar) 🌐</p><p style="text-align: center;">Project with the purpose of validating an HTTP / HTTPS / SOCKS4 / SOCKS 5 proxy list. </p>
+# <p style="text-align: center;"> [🌐 proxy.casals.ar 🌐](https://proxy.casals.ar)<br>
+### <p style="text-align: center;">  Project with the purpose of validating an HTTP / HTTPS / SOCKS4 / SOCKS 5 proxy list.</p>
 
-# ❓ FAQ
+<br><br>
+
+## ❓ FAQ
 
 Q: What is the purpose? 
 
@@ -24,10 +27,10 @@ A: Proxies are obtained from different sources, almost all from open source GitH
 
 Do you want add a new source? Create a new commit or contact to my email at [santiago@casals.ar](mailto:santiago@casals.ar).
 
-# ☕ Buy me a coffee!  [![Donate](https://img.shields.io/badge/Donate-PayPal-green.svg)](https://paypal.me/santicsls)
+## ☕ Buy me a coffee!  [![Donate](https://img.shields.io/badge/Donate-PayPal-green.svg)](https://paypal.me/santicsls)
 
 > With a small donation you will contribute so that I can continue to maintain public projects! 
 
-# 📝 Last update
+## 📝 Last update
 
-> 2023-09-03 19:40:01
+> 2023-09-03 19:45:01
