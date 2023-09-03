@@ -8,6 +8,8 @@
 
 ### <p align="center">Project with the purpose of validating an HTTP / HTTPS / SOCKS4 / SOCKS 5 proxy list.</p>
 
+<br>
+
 ## ❓ FAQ
 
 **Q: What is the purpose?**  
@@ -33,4 +35,4 @@ If you would like to add a new source, please create a new commit or contact me 
 
 ## 📝 Last update
 
-> 2023-09-03 19:58:53
+> 2023-09-03 19:59:37
