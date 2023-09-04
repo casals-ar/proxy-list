@@ -25,7 +25,6 @@
 2. HTTPS: 
     - [ErcinDedeoglu's "proxies" repository](https://raw.githubusercontent.com/ErcinDedeoglu/proxies/main/proxies/https.txt)
     - [mmpx12's "proxy-list" repository](https://raw.githubusercontent.com/mmpx12/proxy-list/master/https.txt)
-    - 
 3. SOCKS4:
     - [monosans's "proxy-list" repository](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/socks4.txt)
 4. SOCKS5:
@@ -39,4 +38,4 @@ If you would like to add a new source, please create a new commit or contact me 
 
 ## 📝 Last update
 
-> 2023-09-04 17:10:01
+> 2023-09-04 17:15:01
