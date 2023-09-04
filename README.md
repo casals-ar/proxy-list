@@ -13,7 +13,7 @@
 ## ❓ FAQ
 
 **Q: What is the purpose?**  
-**A:** The purpose of this project is to obtain and analyze each proxy in an HTTP, HTTPS, SOCKS4, or SOCKS5 proxy list. This verification helps determine if a proxy is currently active.
+**A:** The primary aim of this project is to gather the utmost quantity of HTTP, HTTPS, SOCKS4, or SOCKS5 proxies and meticulously analyze each of them to ascertain their current operational status. Furthermore, a key objective is to centralize all these proxies into a single, high-quality repository.
 
 **Q: Where do you get the proxies from?**  
 **A:** The proxies used in this project are sourced from various open-source repositories on GitHub and other projects that offer their services for free. Some of the data sources include:
@@ -38,4 +38,4 @@ If you would like to add a new source, please create a new commit or contact me 
 
 ## 📝 Last update
 
-> 2023-09-04 17:15:01
+> 2023-09-04 17:20:01
