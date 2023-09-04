@@ -20,6 +20,8 @@
 
 1. HTTP:
     - [TheSpeedX's "PROXY-List" repository](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)
+    - [zloi-user's "hideip.me" repository](https://raw.githubusercontent.com/zloi-user/hideip.me/main/http.txt)
+    - [Zaeem20's "FREE_PROXIES_LIST" repository](https://raw.githubusercontent.com/Zaeem20/FREE_PROXIES_LIST/master/http.txt)
 2. HTTPS: 
     - [ErcinDedeoglu's "proxies" repository](https://raw.githubusercontent.com/ErcinDedeoglu/proxies/main/proxies/https.txt)
 3. SOCKS4:
@@ -35,4 +37,4 @@ If you would like to add a new source, please create a new commit or contact me 
 
 ## 📝 Last update
 
-> 2023-09-04 16:30:01
+> 2023-09-04 16:35:01
