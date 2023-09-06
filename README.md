@@ -36,7 +36,7 @@
     - [ErcinDedeoglu's "proxies" repository](https://raw.githubusercontent.com/ErcinDedeoglu/proxies/main/proxies/socks5.txt)
     - [Zaeem20's "FREE_PROXIES_LIST" repository](https://github.com/Zaeem20/FREE_PROXIES_LIST/blob/master/socks5.txt)
 
-If you would like to add a new source, please create a new commit or contact me via email at [santiago@casals.ar](mailto:santiago@casals.ar).
+If you would like to add a new source, please add a issue or contact me via email at [santiago@casals.ar](mailto:santiago@casals.ar).
 
 ## ☕ Buy me a coffee! [![Donate](https://img.shields.io/badge/Donate-PayPal-green.svg)](https://paypal.me/santicsls)
 
@@ -44,4 +44,4 @@ If you would like to add a new source, please create a new commit or contact me 
 
 ## 📝 Last update
 
-> 2023-09-06 10:15:01
+> 2023-09-06 10:20:01
