@@ -4,7 +4,7 @@
   </a>
 </p>
 
-<h1 align="center"><a href="https://proxy.casals.ar">proxy.casals.ar</a></h1>
+<h1 align="center"><a href="https://proxy.casals.ar">proxy.casals.ar</a><br><img src="https://img.shields.io/github/stars/casals-ar/proxy.casals.ar"></h1>
 
 ### <p align="center">Project with the purpose of validating an HTTP / HTTPS / SOCKS4 / SOCKS 5 proxy list.</p>
 
@@ -44,4 +44,4 @@ If you would like to add a new source, please add a issue or contact me via emai
 
 ## 📝 Last update
 
-> 2023-09-06 13:35:01
+> 2023-09-06 13:40:01
