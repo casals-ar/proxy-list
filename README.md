@@ -29,8 +29,12 @@
     - [roosterkid's "openproxylist" repository](https://raw.githubusercontent.com/roosterkid/openproxylist/main/HTTPS_RAW.txt)
 3. SOCKS4:
     - [monosans's "proxy-list" repository](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/socks4.txt)
+    - [ErcinDedeoglu's "proxies" repository](https://raw.githubusercontent.com/ErcinDedeoglu/proxies/main/proxies/socks4.txt)
+    - [Zaeem20's "FREE_PROXIES_LIST" repository](https://raw.githubusercontent.com/Zaeem20/FREE_PROXIES_LIST/master/socks4.txt)
 4. SOCKS5:
     - [monosans's "proxy-list" repository](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/socks5.txt)
+    - [ErcinDedeoglu's "proxies" repository](https://raw.githubusercontent.com/ErcinDedeoglu/proxies/main/proxies/socks5.txt)
+    - [Zaeem20's "FREE_PROXIES_LIST" repository](https://raw.githubusercontent.com/Zaeem20/FREE_PROXIES_LIST/master/socks4.txt)
 
 If you would like to add a new source, please create a new commit or contact me via email at [santiago@casals.ar](mailto:santiago@casals.ar).
 
@@ -40,4 +44,4 @@ If you would like to add a new source, please create a new commit or contact me 
 
 ## 📝 Last update
 
-> 2023-09-06 10:05:01
+> 2023-09-06 10:10:01
