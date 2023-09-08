@@ -24,17 +24,17 @@
     - [Zaeem20's "FREE_PROXIES_LIST" repository](https://github.com/Zaeem20/FREE_PROXIES_LIST) / [RAW](https://raw.githubusercontent.com/Zaeem20/FREE_PROXIES_LIST/master/http.txt)
     - [prxchk's "proxy-list" repository](https://github.com/prxchk/proxy-list) / [RAW](https://raw.githubusercontent.com/prxchk/proxy-list/main/http.txt)
 2. HTTPS:
-    - [ErcinDedeoglu's "proxies" repository](https://raw.githubusercontent.com/ErcinDedeoglu/proxies/main/proxies/https.txt)
-    - [mmpx12's "proxy-list" repository](https://raw.githubusercontent.com/mmpx12/proxy-list/master/https.txt)
-    - [roosterkid's "openproxylist" repository](https://raw.githubusercontent.com/roosterkid/openproxylist/main/HTTPS_RAW.txt)
+    - [ErcinDedeoglu's "proxies" repository](https://github.com/ErcinDedeoglu/proxies/) / [RAW](https://raw.githubusercontent.com/ErcinDedeoglu/proxies/main/proxies/https.txt)
+    - [mmpx12's "proxy-list" repository](https://github.com/mmpx12/proxy-list/) / [RAW](https://raw.githubusercontent.com/mmpx12/proxy-list/master/https.txt)
+    - [roosterkid's "openproxylist" repository](https://github.com/roosterkid/openproxylist) / [RAW](https://raw.githubusercontent.com/roosterkid/openproxylist/main/HTTPS_RAW.txt)
 3. SOCKS4:
-    - [monosans's "proxy-list" repository](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/socks4.txt)
-    - [ErcinDedeoglu's "proxies" repository](https://raw.githubusercontent.com/ErcinDedeoglu/proxies/main/proxies/socks4.txt)
-    - [Zaeem20's "FREE_PROXIES_LIST" repository](https://raw.githubusercontent.com/Zaeem20/FREE_PROXIES_LIST/master/socks4.txt)
+    - [monosans's "proxy-list" repository](https:///github.com/monosans/proxy-list/) / [RAW](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/socks4.txt)
+    - [ErcinDedeoglu's "proxies" repository](https:///github.com/ErcinDedeoglu/proxies/) / [RAW](https://raw.githubusercontent.com/ErcinDedeoglu/proxies/main/proxies/socks4.txt)
+    - [Zaeem20's "FREE_PROXIES_LIST" repository](https:///github.com/Zaeem20/FREE_PROXIES_LIST/) / [RAW](https://raw.githubusercontent.com/Zaeem20/FREE_PROXIES_LIST/master/socks4.txt)
 4. SOCKS5:
-    - [monosans's "proxy-list" repository](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/socks5.txt)
-    - [ErcinDedeoglu's "proxies" repository](https://raw.githubusercontent.com/ErcinDedeoglu/proxies/main/proxies/socks5.txt)
-    - [Zaeem20's "FREE_PROXIES_LIST" repository](https://raw.githubusercontent.com/Zaeem20/FREE_PROXIES_LIST/master/socks5.txt)
+    - [monosans's "proxy-list" repository](https://github.com/monosans/proxy-list/) / [RAW](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/socks5.txt)
+    - [ErcinDedeoglu's "proxies" repository](https://github.com/ErcinDedeoglu/proxies/) / [RAW](https://raw.githubusercontent.com/ErcinDedeoglu/proxies/main/proxies/socks5.txt)
+    - [Zaeem20's "FREE_PROXIES_LIST" repository](https://github.com/Zaeem20/FREE_PROXIES_LIST/) / [RAW](https://raw.githubusercontent.com/Zaeem20/FREE_PROXIES_LIST/master/socks5.txt)
 
 If you would like to add a new source, please add a issue or contact me via email at [santiago@casals.ar](mailto:santiago@casals.ar).
 
@@ -44,4 +44,4 @@ If you would like to add a new source, please add a issue or contact me via emai
 
 ## 📝 Last update
 
-> 2023-09-08 15:55:01
+> 2023-09-08 15:55:23
