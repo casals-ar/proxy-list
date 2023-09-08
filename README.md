@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://casals.ar">
-    <img src="https://casals.ar/proxy.casals.ar.png" width="200" height="200">
+    <img src="https://casals.ar/proxy.casals.ar.png" width="450" height="250">
   </a>
 </p>
 
@@ -44,4 +44,4 @@ If you would like to add a new source, please add a issue or contact me via emai
 
 ## 📝 Last update
 
-> 2023-09-08 15:55:23
+> 2023-09-08 15:55:54
