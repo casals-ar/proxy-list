@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://casals.ar">
-    <img src="https://casals.ar/logo.png" width="200" height="200">
+    <img src="https://casals.ar/proxy.casals.ar.png" width="200" height="200">
   </a>
 </p>
 
@@ -19,10 +19,10 @@
 **A:** The proxies used in this project are sourced from various open-source repositories on GitHub and other projects that offer their services for free. Some of the data sources include:
 
 1. HTTP:
-    - [TheSpeedX's "PROXY-List" repository](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)
-    - [zloi-user's "hideip.me" repository](https://raw.githubusercontent.com/zloi-user/hideip.me/main/http.txt)
-    - [Zaeem20's "FREE_PROXIES_LIST" repository](https://raw.githubusercontent.com/Zaeem20/FREE_PROXIES_LIST/master/http.txt)
-    - [prxchk's "proxy-list" repository](https://raw.githubusercontent.com/prxchk/proxy-list/main/http.txt)
+    - [TheSpeedX's "PROXY-List" repository](https://github.com/TheSpeedX/PROXY-List) / [RAW](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)
+    - [zloi-user's "hideip.me" repository](https://github.com/zloi-user/hideip.me) / [RAW](https://raw.githubusercontent.com/zloi-user/hideip.me/main/http.txt)
+    - [Zaeem20's "FREE_PROXIES_LIST" repository](https://github.com/Zaeem20/FREE_PROXIES_LIST) / [RAW](https://raw.githubusercontent.com/Zaeem20/FREE_PROXIES_LIST/master/http.txt)
+    - [prxchk's "proxy-list" repository](https://github.com/prxchk/proxy-list) / [RAW](https://raw.githubusercontent.com/prxchk/proxy-list/main/http.txt)
 2. HTTPS: 
     - [ErcinDedeoglu's "proxies" repository](https://raw.githubusercontent.com/ErcinDedeoglu/proxies/main/proxies/https.txt)
     - [mmpx12's "proxy-list" repository](https://raw.githubusercontent.com/mmpx12/proxy-list/master/https.txt)
@@ -44,4 +44,4 @@ If you would like to add a new source, please add a issue or contact me via emai
 
 ## 📝 Last update
 
-> 2023-09-08 15:45:01
+> 2023-09-08 15:46:57
