@@ -23,7 +23,7 @@
     - [zloi-user's "hideip.me" repository](https://github.com/zloi-user/hideip.me) / [RAW](https://raw.githubusercontent.com/zloi-user/hideip.me/main/http.txt)
     - [Zaeem20's "FREE_PROXIES_LIST" repository](https://github.com/Zaeem20/FREE_PROXIES_LIST) / [RAW](https://raw.githubusercontent.com/Zaeem20/FREE_PROXIES_LIST/master/http.txt)
     - [prxchk's "proxy-list" repository](https://github.com/prxchk/proxy-list) / [RAW](https://raw.githubusercontent.com/prxchk/proxy-list/main/http.txt)
-2. HTTPS: 
+2. HTTPS:
     - [ErcinDedeoglu's "proxies" repository](https://raw.githubusercontent.com/ErcinDedeoglu/proxies/main/proxies/https.txt)
     - [mmpx12's "proxy-list" repository](https://raw.githubusercontent.com/mmpx12/proxy-list/master/https.txt)
     - [roosterkid's "openproxylist" repository](https://raw.githubusercontent.com/roosterkid/openproxylist/main/HTTPS_RAW.txt)
@@ -44,4 +44,4 @@ If you would like to add a new source, please add a issue or contact me via emai
 
 ## 📝 Last update
 
-> 2023-09-08 15:50:01
+> 2023-09-08 15:50:05
