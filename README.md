@@ -2,7 +2,7 @@
 
 <br>
 
-<img src="https://img.shields.io/github/stars/casals-ar/proxy.casals.ar"></h1>
+<a href="https://github.com/casals-ar/proxy.casals.ar/stargazers"><img src="https://img.shields.io/github/stars/casals-ar/proxy.casals.ar"></a></h1>
 
 ### <p align="center">Validating an HTTP / HTTPS / SOCKS4 / SOCKS 5 proxy list every 5 minutes.</p>
 
@@ -13,7 +13,7 @@
 **Q: What is the purpose?**  
 **A:** The primary aim of this project is to gather the utmost quantity of HTTP, HTTPS, SOCKS4, or SOCKS5 proxies and meticulously analyze each of them to ascertain their current operational status. Furthermore, a key objective is to centralize all these proxies into a single, high-quality repository.
 
-**Q: What is the timeout?**
+**Q: What is the timeout?**  
 **A:** The timeout for each proxy is 3 seconds for all protocols.
 
 **Q: Where do you get the proxies from?**  
@@ -45,4 +45,4 @@ If you would like to add a new source, please add a issue or contact me via emai
 
 ## 📝 Last update
 
-> 2023-09-13 17:40:01
+> 2023-09-13 17:45:01
