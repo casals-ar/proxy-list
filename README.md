@@ -1,12 +1,10 @@
-<p align="center">
-  <a href="https://casals.ar">
-    <img src="https://casals.ar/proxy.casals.ar.png" width="450" height="250">
-  </a>
-</p>
+<h1 align="center"><a href="https://proxy.casals.ar">proxy.casals.ar</a>
 
-<h1 align="center"><a href="https://proxy.casals.ar">proxy.casals.ar</a><br><img src="https://img.shields.io/github/stars/casals-ar/proxy.casals.ar"></h1>
+<br>
 
-### <p align="center">Project with the purpose of validating an HTTP / HTTPS / SOCKS4 / SOCKS 5 proxy list.</p>
+<img src="https://img.shields.io/github/stars/casals-ar/proxy.casals.ar"></h1>
+
+### <p align="center">Validating an HTTP / HTTPS / SOCKS4 / SOCKS 5 proxy list every 5 minutes.</p>
 
 <br>
 
@@ -14,6 +12,9 @@
 
 **Q: What is the purpose?**  
 **A:** The primary aim of this project is to gather the utmost quantity of HTTP, HTTPS, SOCKS4, or SOCKS5 proxies and meticulously analyze each of them to ascertain their current operational status. Furthermore, a key objective is to centralize all these proxies into a single, high-quality repository.
+
+**Q: What is the timeout?**
+**A:** The timeout for each proxy is 3 seconds for all protocols.
 
 **Q: Where do you get the proxies from?**  
 **A:** The proxies used in this project are sourced from various open-source repositories on GitHub and other projects that offer their services for free. Some of the data sources include:
@@ -44,4 +45,4 @@ If you would like to add a new source, please add a issue or contact me via emai
 
 ## 📝 Last update
 
-> 2023-09-13 17:35:01
+> 2023-09-13 17:40:01
