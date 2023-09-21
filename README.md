@@ -1,4 +1,11 @@
-<h1 align="center"><a href="https://proxy.casals.ar">proxy.casals.ar</a>
+
+<h1 align="center">
+
+<img src="https://casals.ar/logo_proxy.casals.ar.png" align="center" width="128px" height="128px"/>
+
+<br>
+
+<a href="https://proxy.casals.ar">proxy.casals.ar</a>
 
 <br>
 
@@ -45,4 +52,4 @@ If you would like to add a new source, please add a issue or contact me via emai
 
 ## 📝 Last update
 
-> 2023-09-21 20:15:01
+> 2023-09-21 20:20:01
