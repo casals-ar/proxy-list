@@ -1,13 +1,11 @@
 
 <h1 align="center">
 
-<img src="https://casals.ar/logo_proxy.casals.ar.png" align="center" width="128px" height="128px"/>
+<img src="https://casals.ar/logo_proxy.casals.ar.png" align="center" style="padding: 50px; width: 20%;" />
 
 <br>
 
 <a href="https://proxy.casals.ar">proxy.casals.ar</a>
-
-<br>
 
 <a href="https://github.com/casals-ar/proxy.casals.ar/stargazers"><img src="https://img.shields.io/github/stars/casals-ar/proxy.casals.ar"></a></h1>
 
@@ -52,4 +50,4 @@ If you would like to add a new source, please add a issue or contact me via emai
 
 ## 📝 Last update
 
-> 2023-09-21 20:20:01
+> 2023-09-21 20:25:01
