@@ -1,7 +1,7 @@
 
 <h1 align="center">
 
-<img src="https://casals.ar/logo_proxy.casals.ar.png" align="center" style="padding: 50px; width: 20%;" />
+<img src="https://casals.ar/rocket.png" align="center" style="width: 30%;" />
 
 <br>
 
@@ -50,4 +50,4 @@ If you would like to add a new source, please add a issue or contact me via emai
 
 ## 📝 Last update
 
-> 2023-09-21 20:25:01
+> 2023-09-21 20:30:01
