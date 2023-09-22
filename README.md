@@ -1,13 +1,15 @@
 
 <h1 align="center">
 
-<img src="https://casals.ar/mini_rocket.png" align="center" style="width: 30%;" />
+<img src="https://casals.ar/mini_rocket.png" align="center" style="padding: 25px; width: 25%;" />
 
 <br>
 
 <a href="https://proxy.casals.ar">proxy.casals.ar</a>
 
-<a href="https://github.com/casals-ar/proxy.casals.ar/stargazers"><img src="https://img.shields.io/github/stars/casals-ar/proxy.casals.ar"></a></h1>
+<a href="https://github.com/casals-ar/proxy.casals.ar/stargazers"><img src="https://img.shields.io/github/stars/casals-ar/proxy.casals.ar"></a>
+
+</h1>
 
 ### <p align="center">Validating an HTTP / HTTPS / SOCKS4 / SOCKS 5 proxy list every 5 minutes.</p>
 
@@ -50,4 +52,4 @@ If you would like to add a new source, please add a issue or contact me via emai
 
 ## 📝 Last update
 
-> 2023-09-22 08:05:01
+> 2023-09-22 08:10:01
