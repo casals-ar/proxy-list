@@ -4,13 +4,13 @@
 
 <br>
 
-<a target="_blank" href="https://proxy.casals.ar">proxy.casals.ar</a>
+<a style="font-size: 30px; font-weight: bold; text-decoration: underline;" target="_blank" href="https://proxy.casals.ar">proxy.casals.ar</a>
 
-<a target="_blank" href="https://github.com/casals-ar/proxy.casals.ar/stargazers"><img src="https://img.shields.io/github/stars/casals-ar/proxy.casals.ar"></a>
+<a style="font-size: 15px;" target="_blank" href="https://github.com/casals-ar/proxy.casals.ar/stargazers">With a star you help me a lot! </br><img src="https://img.shields.io/github/stars/casals-ar/proxy.casals.ar"></a>
 
 </h1>
 
-<h3 align="center">Validating an HTTP / HTTPS / SOCKS4 / SOCKS 5 proxy list every 5 minutes.</h3>
+<h3 align="center">Validating an HTTP / HTTPS / SOCKS4 / SOCKS5 proxy list every 5 minutes.</h3>
 
 <br>
 
@@ -54,4 +54,4 @@ If you would like to add a new source, please add a issue or contact me via emai
 
 ## 📝 Last update
 
-> 2023-11-29 09:55:01
+> 2023-11-29 10:00:01
