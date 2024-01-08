@@ -1,6 +1,6 @@
 <h1 align="center">
 
-<img target="_blank" href="https://proxy.casals.ar" src="https://casals.ar/mini_rocket.png" align="center" style="padding: 25px; width: 25%;" />
+<img target="_blank" href="https://proxy.casals.ar" src="https://i.imgur.com/zT5gFNC.png" align="center" style="padding: 25px; width: 65%;" />
 
 <br>
 
@@ -55,4 +55,4 @@ If you would like to add a new source, please add a issue or contact me via emai
 
 ## 📝 Last update
 
-> 2024-01-07 22:10:01
+> 2024-01-07 22:15:01
