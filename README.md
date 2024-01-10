@@ -10,4 +10,3 @@
 </h1>
 
 <h3 align="center">HTTP / HTTPS / SOCKS4 / SOCKS5 proxy list with update every 5 minutes.</h3>
- 
